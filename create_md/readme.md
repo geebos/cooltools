@@ -6,6 +6,8 @@ tags: readme
 
 # 使用方法
 
+<div></div>
+
 总共有两个参数
 
 -n : name，要创建的文件名称
